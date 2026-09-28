@@ -1,0 +1,9 @@
+[
+  {"golden_id":"GOLDEN-001","published_id":"REQ-GAME-001","score":0.95},
+  {"golden_id":"GOLDEN-003","published_id":"REQ-GAME-002","score":0.95},
+  {"golden_id":"GOLDEN-004","published_id":"REQ-GAME-005","score":0.95},
+  {"golden_id":"GOLDEN-006","published_id":"REQ-GAME-003","score":0.9},
+  {"golden_id":"GOLDEN-008","published_id":"REQ-UI-001","score":0.95},
+  {"golden_id":"GOLDEN-009","published_id":"REQ-GAME-004","score":0.95},
+  {"golden_id":"GOLDEN-010","published_id":"REQ-GAME-036","score":0.9}
+]

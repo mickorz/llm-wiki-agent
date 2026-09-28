@@ -1,0 +1,9 @@
+[
+  {"golden_id":"GOLDEN-031","published_id":"REQ-SETTLEMENT-020","score":0.95},
+  {"golden_id":"GOLDEN-032","published_id":"REQ-CONFIG-004","score":0.95},
+  {"golden_id":"GOLDEN-033","published_id":"REQ-CONFIG-005","score":0.95},
+  {"golden_id":"GOLDEN-036","published_id":"REQ-SETTLEMENT-021","score":0.95},
+  {"golden_id":"GOLDEN-037","published_id":"REQ-CONFIG-011","score":0.95},
+  {"golden_id":"GOLDEN-038","published_id":"REQ-SETTLEMENT-028","score":0.75},
+  {"golden_id":"GOLDEN-039","published_id":"REQ-SETTLEMENT-027","score":0.85}
+]
