@@ -1,442 +1,100 @@
 {
-  "REQ-GAME-001": {
-    "wiki": [
-      "wiki/concepts/刮风下雨.md",
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/03-打牌操作.md",
-      "raw/mahjong/06-结算.md"
-    ]
-  },
-  "REQ-GAME-002": {
-    "wiki": [
-      "wiki/concepts/刮风下雨.md",
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/03-打牌操作.md",
-      "raw/mahjong/06-结算.md"
-    ]
-  },
-  "REQ-GAME-003": {
-    "wiki": [
-      "wiki/concepts/刮风下雨.md",
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/03-打牌操作.md",
-      "raw/mahjong/06-结算.md"
-    ]
-  },
-  "REQ-GAME-004": {
-    "wiki": [
-      "wiki/concepts/刮风下雨.md",
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/03-打牌操作.md"
-    ]
-  },
-  "REQ-GAME-005": {
-    "wiki": [
-      "wiki/concepts/刮风下雨.md",
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/03-打牌操作.md"
-    ]
-  },
-  "REQ-GAME-006": {
-    "wiki": [
-      "wiki/concepts/刮风下雨.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/行牌操作.md",
-      "wiki/concepts/胡牌判定.md"
-    ],
-    "raw": [
-      "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/03-打牌操作.md",
-      "raw/mahjong/05-胡牌类型.md",
-      "raw/mahjong/06-结算.md"
-    ]
-  },
-  "REQ-GAME-007": {
-    "wiki": [
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
-    ],
-    "raw": [
-      "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/06-结算.md"
-    ]
-  },
-  "REQ-GAME-008": {
-    "wiki": [
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md",
-      "raw/mahjong/05-胡牌类型.md"
-    ]
-  },
-  "REQ-GAME-009": {
-    "wiki": [
-      "wiki/concepts/呼叫转移与擦挂.md"
-    ],
-    "raw": [
-      "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/06-结算.md"
-    ]
-  },
-  "REQ-GAME-010": {
-    "wiki": [
-      "wiki/concepts/流局处理.md"
-    ],
-    "raw": [
-      "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/02-游戏流程.md",
-      "raw/mahjong/06-结算.md"
-    ]
-  },
-  "REQ-GAME-011": {
-    "wiki": [
-      "wiki/concepts/胡牌判定.md"
-    ],
-    "raw": [
-      "raw/mahjong/05-胡牌类型.md"
-    ]
-  },
-  "REQ-GAME-012": {
-    "wiki": [
-      "wiki/concepts/胡牌判定.md"
-    ],
-    "raw": [
-      "raw/mahjong/05-胡牌类型.md"
-    ]
-  },
-  "REQ-GAME-013": {
-    "wiki": [
-      "wiki/concepts/胡牌判定.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/行牌操作.md",
-      "wiki/concepts/创房配置.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md",
-      "raw/mahjong/05-胡牌类型.md",
-      "raw/mahjong/07-配置.md"
-    ]
-  },
-  "REQ-GAME-014": {
-    "wiki": [
-      "wiki/concepts/胡牌判定.md",
-      "wiki/concepts/番型体系.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/结算公式.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md",
-      "raw/mahjong/05-胡牌类型.md",
-      "raw/mahjong/06-结算.md",
-      "raw/mahjong/07-配置.md"
-    ]
-  },
-  "REQ-GAME-015": {
-    "wiki": [
-      "wiki/concepts/胡牌判定.md",
-      "wiki/concepts/番型体系.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md",
-      "raw/mahjong/05-胡牌类型.md"
-    ]
-  },
-  "REQ-GAME-016": {
-    "wiki": [
-      "wiki/concepts/番型体系.md",
-      "wiki/concepts/结算公式.md",
-      "wiki/concepts/结算流水线.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md",
-      "raw/mahjong/06-结算.md"
-    ]
-  },
-  "REQ-GAME-017": {
-    "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-GAME-018": {
-    "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-GAME-019": {
-    "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-GAME-020": {
-    "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-GAME-021": {
-    "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-GAME-022": {
-    "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-GAME-023": {
-    "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-GAME-024": {
-    "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-GAME-025": {
-    "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-GAME-026": {
-    "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-GAME-027": {
-    "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-GAME-028": {
-    "wiki": [
-      "wiki/concepts/番型体系.md",
-      "wiki/concepts/结算公式.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md",
-      "raw/mahjong/06-结算.md"
-    ]
-  },
-  "REQ-GAME-029": {
-    "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-GAME-030": {
-    "wiki": [
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md"
-    ]
-  },
-  "REQ-GAME-031": {
-    "wiki": [
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md"
-    ]
-  },
-  "REQ-GAME-032": {
-    "wiki": [
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md"
-    ]
-  },
-  "REQ-GAME-033": {
-    "wiki": [
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md"
-    ]
-  },
-  "REQ-GAME-034": {
-    "wiki": [
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md"
-    ]
-  },
-  "REQ-GAME-035": {
-    "wiki": [
-      "wiki/concepts/行牌操作.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md"
-    ]
-  },
-  "REQ-GAME-036": {
-    "wiki": [
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md"
-    ]
-  },
-  "REQ-GAME-037": {
-    "wiki": [
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md"
-    ]
-  },
-  "REQ-GAME-038": {
-    "wiki": [
-      "wiki/concepts/行牌操作.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/创房配置.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md",
-      "raw/mahjong/07-配置.md"
-    ]
-  },
   "REQ-SETTLEMENT-001": {
     "wiki": [
       "wiki/concepts/刮风下雨.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
+      "wiki/concepts/行牌操作.md",
+      "wiki/concepts/结算公式.md"
     ],
     "raw": [
       "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/03-打牌操作.md",
       "raw/mahjong/06-结算.md"
     ]
   },
   "REQ-SETTLEMENT-002": {
     "wiki": [
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/呼叫转移与擦挂.md"
+      "wiki/concepts/刮风下雨.md",
+      "wiki/concepts/行牌操作.md",
+      "wiki/concepts/结算公式.md"
     ],
     "raw": [
       "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/06-结算.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/06-结算.md"
     ]
   },
   "REQ-SETTLEMENT-003": {
     "wiki": [
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/呼叫转移与擦挂.md"
+      "wiki/concepts/刮风下雨.md",
+      "wiki/concepts/行牌操作.md",
+      "wiki/concepts/结算公式.md"
     ],
     "raw": [
       "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/06-结算.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/06-结算.md"
     ]
   },
   "REQ-SETTLEMENT-004": {
     "wiki": [
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/呼叫转移与擦挂.md"
+      "wiki/concepts/刮风下雨.md",
+      "wiki/concepts/胡牌判定.md",
+      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
     ],
     "raw": [
       "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/05-胡牌类型.md",
       "raw/mahjong/06-结算.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/03-打牌操作.md"
     ]
   },
   "REQ-SETTLEMENT-005": {
     "wiki": [
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
+      "wiki/concepts/刮风下雨.md",
+      "wiki/concepts/结算公式.md",
       "wiki/concepts/呼叫转移与擦挂.md"
     ],
     "raw": [
-      "raw/mahjong/01-基础规则.md",
       "raw/mahjong/06-结算.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/01-基础规则.md"
     ]
   },
   "REQ-SETTLEMENT-006": {
     "wiki": [
+      "wiki/concepts/刮风下雨.md",
+      "wiki/concepts/胡牌判定.md",
       "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
     ],
     "raw": [
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/05-胡牌类型.md",
       "raw/mahjong/06-结算.md"
     ]
   },
   "REQ-SETTLEMENT-007": {
     "wiki": [
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/胡牌判定.md"
+      "wiki/concepts/呼叫转移与擦挂.md",
+      "wiki/concepts/结算公式.md"
     ],
     "raw": [
+      "raw/mahjong/01-基础规则.md",
       "raw/mahjong/05-胡牌类型.md",
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/07-配置.md"
     ]
   },
   "REQ-SETTLEMENT-008": {
     "wiki": [
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/胡牌判定.md"
+      "wiki/concepts/结算流水线.md",
+      "wiki/concepts/结算公式.md"
     ],
     "raw": [
-      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/02-游戏流程.md",
       "raw/mahjong/06-结算.md"
     ]
   },
   "REQ-SETTLEMENT-009": {
     "wiki": [
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/流局处理.md",
       "wiki/concepts/结算公式.md"
     ],
     "raw": [
@@ -446,29 +104,31 @@
   "REQ-SETTLEMENT-010": {
     "wiki": [
       "wiki/concepts/呼叫转移与擦挂.md",
-      "wiki/concepts/结算公式.md",
-      "wiki/concepts/结算流水线.md"
+      "wiki/concepts/胡牌判定.md",
+      "wiki/concepts/结算公式.md"
     ],
     "raw": [
       "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/05-胡牌类型.md",
       "raw/mahjong/06-结算.md"
     ]
   },
   "REQ-SETTLEMENT-011": {
     "wiki": [
-      "wiki/concepts/呼叫转移与擦挂.md"
+      "wiki/concepts/呼叫转移与擦挂.md",
+      "wiki/concepts/结算公式.md"
     ],
     "raw": [
       "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/07-配置.md"
     ]
   },
   "REQ-SETTLEMENT-012": {
     "wiki": [
-      "wiki/concepts/呼叫转移与擦挂.md"
+      "wiki/concepts/结算公式.md"
     ],
     "raw": [
-      "raw/mahjong/01-基础规则.md",
       "raw/mahjong/06-结算.md"
     ]
   },
@@ -478,115 +138,173 @@
     ],
     "raw": [
       "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/07-配置.md"
     ]
   },
   "REQ-SETTLEMENT-014": {
     "wiki": [
-      "wiki/concepts/呼叫转移与擦挂.md",
-      "wiki/concepts/结算公式.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
+      "wiki/concepts/胡牌判定.md",
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/结算公式.md"
     ],
     "raw": [
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/05-胡牌类型.md"
     ]
   },
   "REQ-SETTLEMENT-015": {
     "wiki": [
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/胡牌判定.md"
     ],
     "raw": [
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/04-番型.md"
     ]
   },
   "REQ-SETTLEMENT-016": {
     "wiki": [
-      "wiki/concepts/结算公式.md"
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/创房配置.md"
     ],
     "raw": [
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/04-番型.md",
+      "raw/mahjong/07-配置.md"
     ]
   },
   "REQ-SETTLEMENT-017": {
     "wiki": [
-      "wiki/concepts/流局处理.md"
+      "wiki/concepts/番型体系.md"
     ],
     "raw": [
-      "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/04-番型.md"
     ]
   },
   "REQ-SETTLEMENT-018": {
     "wiki": [
-      "wiki/concepts/流局处理.md",
-      "wiki/concepts/结算公式.md"
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/创房配置.md"
     ],
     "raw": [
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/04-番型.md",
+      "raw/mahjong/07-配置.md"
     ]
   },
   "REQ-SETTLEMENT-019": {
     "wiki": [
-      "wiki/concepts/流局处理.md"
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/创房配置.md"
     ],
     "raw": [
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/04-番型.md",
+      "raw/mahjong/07-配置.md"
     ]
   },
   "REQ-SETTLEMENT-020": {
     "wiki": [
-      "wiki/concepts/流局处理.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/结算公式.md"
+      "wiki/concepts/番型体系.md"
     ],
     "raw": [
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/04-番型.md"
     ]
   },
   "REQ-SETTLEMENT-021": {
     "wiki": [
-      "wiki/concepts/胡牌判定.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/结算公式.md"
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/创房配置.md"
     ],
     "raw": [
       "raw/mahjong/04-番型.md",
-      "raw/mahjong/05-胡牌类型.md",
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/07-配置.md"
     ]
   },
   "REQ-SETTLEMENT-022": {
     "wiki": [
-      "wiki/concepts/胡牌判定.md"
+      "wiki/concepts/番型体系.md"
     ],
     "raw": [
-      "raw/mahjong/05-胡牌类型.md"
+      "raw/mahjong/04-番型.md"
     ]
   },
   "REQ-SETTLEMENT-023": {
     "wiki": [
+      "wiki/concepts/番型体系.md",
       "wiki/concepts/胡牌判定.md",
-      "wiki/concepts/创房配置.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
+      "wiki/concepts/创房配置.md"
     ],
     "raw": [
+      "raw/mahjong/04-番型.md",
       "raw/mahjong/05-胡牌类型.md",
       "raw/mahjong/07-配置.md"
     ]
   },
   "REQ-SETTLEMENT-024": {
     "wiki": [
+      "wiki/concepts/番型体系.md",
       "wiki/concepts/胡牌判定.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
+      "wiki/concepts/创房配置.md"
     ],
     "raw": [
-      "raw/mahjong/05-胡牌类型.md"
+      "raw/mahjong/04-番型.md",
+      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/07-配置.md"
     ]
   },
   "REQ-SETTLEMENT-025": {
     "wiki": [
       "wiki/concepts/番型体系.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
+      "wiki/concepts/创房配置.md"
+    ],
+    "raw": [
+      "raw/mahjong/04-番型.md",
+      "raw/mahjong/07-配置.md"
+    ]
+  },
+  "REQ-SETTLEMENT-026": {
+    "wiki": [
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/结算流水线.md"
+    ],
+    "raw": [
+      "raw/mahjong/04-番型.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-SETTLEMENT-027": {
+    "wiki": [
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/结算流水线.md"
+    ],
+    "raw": [
+      "raw/mahjong/04-番型.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-SETTLEMENT-028": {
+    "wiki": [
+      "wiki/concepts/番型体系.md"
+    ],
+    "raw": [
+      "raw/mahjong/04-番型.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-SETTLEMENT-029": {
+    "wiki": [
+      "wiki/concepts/将牌与根.md",
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/结算流水线.md"
+    ],
+    "raw": [
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/04-番型.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-SETTLEMENT-030": {
+    "wiki": [
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/胡牌判定.md",
       "wiki/concepts/结算公式.md"
     ],
     "raw": [
@@ -595,45 +313,427 @@
       "raw/mahjong/06-结算.md"
     ]
   },
-  "REQ-SETTLEMENT-026": {
+  "REQ-SETTLEMENT-031": {
     "wiki": [
-      "wiki/concepts/结算公式.md"
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/结算公式.md",
+      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
+      "wiki/concepts/结算流水线.md"
     ],
     "raw": [
+      "raw/mahjong/04-番型.md",
       "raw/mahjong/06-结算.md"
     ]
   },
-  "REQ-SETTLEMENT-027": {
+  "REQ-SETTLEMENT-032": {
     "wiki": [
-      "wiki/concepts/结算公式.md"
+      "wiki/concepts/结算公式.md",
+      "wiki/concepts/结算流水线.md"
     ],
     "raw": [
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/05-胡牌类型.md"
     ]
   },
-  "REQ-SETTLEMENT-028": {
+  "REQ-SETTLEMENT-033": {
     "wiki": [
+      "wiki/concepts/结算公式.md",
       "wiki/concepts/结算流水线.md",
+      "wiki/concepts/创房配置.md",
+      "wiki/concepts/番型体系.md"
+    ],
+    "raw": [
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/04-番型.md"
+    ]
+  },
+  "REQ-SETTLEMENT-034": {
+    "wiki": [
+      "wiki/concepts/结算公式.md",
+      "wiki/concepts/创房配置.md",
+      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/胡牌判定.md"
+    ],
+    "raw": [
+      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/04-番型.md"
+    ]
+  },
+  "REQ-SETTLEMENT-035": {
+    "wiki": [
+      "wiki/concepts/胡牌判定.md",
+      "wiki/concepts/结算公式.md",
       "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
     ],
     "raw": [
+      "raw/mahjong/05-胡牌类型.md",
       "raw/mahjong/06-结算.md"
     ]
   },
-  "REQ-SETTLEMENT-029": {
+  "REQ-SETTLEMENT-036": {
     "wiki": [
+      "wiki/concepts/胡牌判定.md",
+      "wiki/concepts/结算公式.md",
+      "wiki/concepts/呼叫转移与擦挂.md",
+      "wiki/concepts/结算流水线.md"
+    ],
+    "raw": [
+      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-SETTLEMENT-037": {
+    "wiki": [
+      "wiki/concepts/结算流水线.md",
+      "wiki/concepts/结算公式.md"
+    ],
+    "raw": [
+      "raw/mahjong/02-游戏流程.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-SETTLEMENT-038": {
+    "wiki": [
+      "wiki/concepts/流局处理.md",
+      "wiki/syntheses/一局血战麻将从开始到结束的完整流程是什么.md"
+    ],
+    "raw": [
+      "raw/mahjong/02-游戏流程.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-SETTLEMENT-039": {
+    "wiki": [
+      "wiki/concepts/流局处理.md",
+      "wiki/concepts/刮风下雨.md",
+      "wiki/concepts/结算公式.md",
+      "wiki/concepts/呼叫转移与擦挂.md"
+    ],
+    "raw": [
+      "raw/mahjong/02-游戏流程.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-SETTLEMENT-040": {
+    "wiki": [
+      "wiki/concepts/流局处理.md",
+      "wiki/concepts/呼叫转移与擦挂.md"
+    ],
+    "raw": [
+      "raw/mahjong/02-游戏流程.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-SETTLEMENT-041": {
+    "wiki": [
+      "wiki/concepts/流局处理.md",
+      "wiki/concepts/创房配置.md",
+      "wiki/concepts/缺门.md",
+      "wiki/concepts/结算公式.md"
+    ],
+    "raw": [
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/02-游戏流程.md"
+    ]
+  },
+  "REQ-SETTLEMENT-042": {
+    "wiki": [
+      "wiki/concepts/流局处理.md",
       "wiki/concepts/结算公式.md"
     ],
     "raw": [
       "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-SETTLEMENT-043": {
+    "wiki": [
+      "wiki/concepts/流局处理.md"
+    ],
+    "raw": [
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-SETTLEMENT-044": {
+    "wiki": [
+      "wiki/concepts/流局处理.md",
+      "wiki/concepts/结算公式.md"
+    ],
+    "raw": [
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-SETTLEMENT-045": {
+    "wiki": [
+      "wiki/concepts/流局处理.md"
+    ],
+    "raw": [
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/07-配置.md"
+    ]
+  },
+  "REQ-GAME-001": {
+    "wiki": [
+      "wiki/concepts/刮风下雨.md",
+      "wiki/concepts/行牌操作.md"
+    ],
+    "raw": [
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/03-打牌操作.md"
+    ]
+  },
+  "REQ-GAME-002": {
+    "wiki": [
+      "wiki/concepts/刮风下雨.md",
+      "wiki/concepts/行牌操作.md",
+      "wiki/concepts/创房配置.md"
+    ],
+    "raw": [
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-GAME-003": {
+    "wiki": [
+      "wiki/concepts/呼叫转移与擦挂.md",
+      "wiki/concepts/胡牌判定.md"
+    ],
+    "raw": [
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-GAME-004": {
+    "wiki": [
+      "wiki/concepts/呼叫转移与擦挂.md"
+    ],
+    "raw": [
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-GAME-005": {
+    "wiki": [
+      "wiki/concepts/行牌操作.md",
+      "wiki/concepts/缺门.md",
+      "wiki/syntheses/一局血战麻将从开始到结束的完整流程是什么.md",
+      "wiki/concepts/胡牌判定.md"
+    ],
+    "raw": [
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/02-游戏流程.md",
+      "raw/mahjong/05-胡牌类型.md"
+    ]
+  },
+  "REQ-GAME-006": {
+    "wiki": [
+      "wiki/concepts/缺门.md",
+      "wiki/concepts/创房配置.md"
+    ],
+    "raw": [
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/07-配置.md"
+    ]
+  },
+  "REQ-GAME-007": {
+    "wiki": [
+      "wiki/concepts/行牌操作.md"
+    ],
+    "raw": [
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/01-基础规则.md"
+    ]
+  },
+  "REQ-GAME-008": {
+    "wiki": [
+      "wiki/concepts/行牌操作.md",
+      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
+      "wiki/concepts/胡牌判定.md"
+    ],
+    "raw": [
+      "raw/mahjong/02-游戏流程.md",
+      "raw/mahjong/03-打牌操作.md"
+    ]
+  },
+  "REQ-GAME-009": {
+    "wiki": [
+      "wiki/concepts/行牌操作.md"
+    ],
+    "raw": [
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/02-游戏流程.md"
+    ]
+  },
+  "REQ-GAME-010": {
+    "wiki": [
+      "wiki/concepts/行牌操作.md"
+    ],
+    "raw": [
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/01-基础规则.md"
+    ]
+  },
+  "REQ-GAME-011": {
+    "wiki": [
+      "wiki/concepts/行牌操作.md",
+      "wiki/concepts/胡牌判定.md"
+    ],
+    "raw": [
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/05-胡牌类型.md"
+    ]
+  },
+  "REQ-GAME-012": {
+    "wiki": [
+      "wiki/concepts/行牌操作.md",
+      "wiki/concepts/过手规则.md"
+    ],
+    "raw": [
+      "raw/mahjong/03-打牌操作.md"
+    ]
+  },
+  "REQ-GAME-013": {
+    "wiki": [
+      "wiki/concepts/过手规则.md",
+      "wiki/concepts/行牌操作.md",
+      "wiki/concepts/创房配置.md"
+    ],
+    "raw": [
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/07-配置.md"
+    ]
+  },
+  "REQ-GAME-014": {
+    "wiki": [
+      "wiki/concepts/过手规则.md",
+      "wiki/concepts/胡牌判定.md",
+      "wiki/concepts/创房配置.md"
+    ],
+    "raw": [
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/07-配置.md"
+    ]
+  },
+  "REQ-GAME-015": {
+    "wiki": [
+      "wiki/syntheses/一局血战麻将从开始到结束的完整流程是什么.md"
+    ],
+    "raw": [
+      "raw/mahjong/02-游戏流程.md",
+      "raw/mahjong/01-基础规则.md"
+    ]
+  },
+  "REQ-GAME-016": {
+    "wiki": [
+      "wiki/concepts/行牌操作.md",
+      "wiki/concepts/胡牌判定.md",
+      "wiki/concepts/创房配置.md"
+    ],
+    "raw": [
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-GAME-017": {
+    "wiki": [
+      "wiki/concepts/胡牌判定.md",
+      "wiki/concepts/行牌操作.md",
+      "wiki/concepts/创房配置.md"
+    ],
+    "raw": [
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/07-配置.md"
+    ]
+  },
+  "REQ-GAME-018": {
+    "wiki": [
+      "wiki/concepts/胡牌判定.md",
+      "wiki/concepts/创房配置.md"
+    ],
+    "raw": [
+      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/07-配置.md"
+    ]
+  },
+  "REQ-GAME-019": {
+    "wiki": [
+      "wiki/concepts/胡牌判定.md",
+      "wiki/syntheses/一局血战麻将从开始到结束的完整流程是什么.md"
+    ],
+    "raw": [
+      "raw/mahjong/05-胡牌类型.md"
+    ]
+  },
+  "REQ-GAME-020": {
+    "wiki": [
+      "wiki/concepts/胡牌判定.md",
+      "wiki/concepts/结算公式.md",
+      "wiki/concepts/行牌操作.md"
+    ],
+    "raw": [
+      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/02-游戏流程.md"
+    ]
+  },
+  "REQ-GAME-021": {
+    "wiki": [
+      "wiki/concepts/流局处理.md",
+      "wiki/syntheses/一局血战麻将从开始到结束的完整流程是什么.md"
+    ],
+    "raw": [
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/02-游戏流程.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-GAME-022": {
+    "wiki": [
+      "wiki/concepts/流局处理.md",
+      "wiki/concepts/缺门.md",
+      "wiki/concepts/创房配置.md"
+    ],
+    "raw": [
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/07-配置.md"
+    ]
+  },
+  "REQ-GAME-023": {
+    "wiki": [
+      "wiki/concepts/流局处理.md",
+      "wiki/concepts/创房配置.md",
+      "wiki/concepts/结算公式.md"
+    ],
+    "raw": [
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/02-游戏流程.md",
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/07-配置.md"
     ]
   },
   "REQ-CONFIG-001": {
     "wiki": [
-      "wiki/concepts/刮风下雨.md",
       "wiki/concepts/呼叫转移与擦挂.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
       "wiki/concepts/胡牌判定.md",
+      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
       "wiki/concepts/创房配置.md"
     ],
     "raw": [
@@ -645,13 +745,12 @@
   },
   "REQ-CONFIG-002": {
     "wiki": [
-      "wiki/concepts/刮风下雨.md",
-      "wiki/concepts/行牌操作.md",
+      "wiki/concepts/呼叫转移与擦挂.md",
       "wiki/concepts/创房配置.md"
     ],
     "raw": [
-      "raw/mahjong/03-打牌操作.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/06-结算.md"
     ]
   },
   "REQ-CONFIG-003": {
@@ -660,105 +759,93 @@
       "wiki/concepts/创房配置.md"
     ],
     "raw": [
-      "raw/mahjong/06-结算.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/06-结算.md"
     ]
   },
   "REQ-CONFIG-004": {
     "wiki": [
-      "wiki/concepts/流局处理.md",
+      "wiki/concepts/结算公式.md",
+      "wiki/concepts/创房配置.md",
       "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
     ],
     "raw": [
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/06-结算.md",
+      "raw/mahjong/07-配置.md"
     ]
   },
   "REQ-CONFIG-005": {
     "wiki": [
       "wiki/concepts/流局处理.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/创房配置.md"
+      "wiki/concepts/创房配置.md",
+      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
     ],
     "raw": [
-      "raw/mahjong/06-结算.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/06-结算.md"
     ]
   },
   "REQ-CONFIG-006": {
     "wiki": [
-      "wiki/concepts/胡牌判定.md",
-      "wiki/concepts/行牌操作.md",
+      "wiki/concepts/流局处理.md",
       "wiki/concepts/创房配置.md"
     ],
     "raw": [
-      "raw/mahjong/03-打牌操作.md",
-      "raw/mahjong/04-番型.md",
-      "raw/mahjong/05-胡牌类型.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/06-结算.md"
     ]
   },
   "REQ-CONFIG-007": {
     "wiki": [
-      "wiki/concepts/胡牌判定.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/行牌操作.md",
-      "wiki/concepts/创房配置.md"
+      "wiki/concepts/创房配置.md",
+      "wiki/syntheses/一局血战麻将从开始到结束的完整流程是什么.md"
     ],
     "raw": [
-      "raw/mahjong/03-打牌操作.md",
-      "raw/mahjong/05-胡牌类型.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/02-游戏流程.md"
     ]
   },
   "REQ-CONFIG-008": {
     "wiki": [
-      "wiki/concepts/胡牌判定.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/创房配置.md"
+      "wiki/concepts/创房配置.md",
+      "wiki/syntheses/一局血战麻将从开始到结束的完整流程是什么.md"
     ],
     "raw": [
-      "raw/mahjong/05-胡牌类型.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/02-游戏流程.md"
     ]
   },
   "REQ-CONFIG-009": {
     "wiki": [
-      "wiki/concepts/胡牌判定.md",
-      "wiki/concepts/创房配置.md"
+      "wiki/concepts/创房配置.md",
+      "wiki/syntheses/一局血战麻将从开始到结束的完整流程是什么.md"
     ],
     "raw": [
-      "raw/mahjong/04-番型.md",
-      "raw/mahjong/05-胡牌类型.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/02-游戏流程.md"
     ]
   },
   "REQ-CONFIG-010": {
     "wiki": [
-      "wiki/concepts/胡牌判定.md",
-      "wiki/concepts/行牌操作.md",
-      "wiki/concepts/结算公式.md",
-      "wiki/concepts/结算流水线.md"
+      "wiki/concepts/缺门.md",
+      "wiki/concepts/创房配置.md",
+      "wiki/concepts/流局处理.md"
     ],
     "raw": [
-      "raw/mahjong/03-打牌操作.md",
-      "raw/mahjong/05-胡牌类型.md",
-      "raw/mahjong/06-结算.md"
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/02-游戏流程.md",
+      "raw/mahjong/07-配置.md"
     ]
   },
   "REQ-CONFIG-011": {
     "wiki": [
-      "wiki/concepts/番型体系.md",
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
-      "wiki/concepts/结算公式.md",
-      "wiki/concepts/结算流水线.md",
-      "wiki/concepts/创房配置.md"
+      "wiki/concepts/创房配置.md",
+      "wiki/syntheses/一局血战麻将从开始到结束的完整流程是什么.md"
     ],
     "raw": [
-      "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/04-番型.md",
-      "raw/mahjong/05-胡牌类型.md",
-      "raw/mahjong/06-结算.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/02-游戏流程.md"
     ]
   },
   "REQ-CONFIG-012": {
@@ -773,106 +860,66 @@
   },
   "REQ-CONFIG-013": {
     "wiki": [
-      "wiki/concepts/结算公式.md",
-      "wiki/concepts/创房配置.md"
+      "wiki/concepts/创房配置.md",
+      "wiki/concepts/换三张.md",
+      "wiki/concepts/掷骰双分流.md"
     ],
     "raw": [
-      "raw/mahjong/06-结算.md",
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/02-游戏流程.md"
     ]
   },
   "REQ-CONFIG-014": {
     "wiki": [
-      "wiki/concepts/创房配置.md"
+      "wiki/concepts/创房配置.md",
+      "wiki/syntheses/一局血战麻将从开始到结束的完整流程是什么.md"
     ],
     "raw": [
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/01-基础规则.md"
     ]
   },
   "REQ-CONFIG-015": {
     "wiki": [
-      "wiki/concepts/创房配置.md"
+      "wiki/concepts/创房配置.md",
+      "wiki/syntheses/一局血战麻将从开始到结束的完整流程是什么.md"
     ],
     "raw": [
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/01-基础规则.md",
+      "raw/mahjong/02-游戏流程.md"
     ]
   },
   "REQ-CONFIG-016": {
     "wiki": [
-      "wiki/concepts/创房配置.md"
+      "wiki/concepts/创房配置.md",
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/胡牌判定.md",
+      "wiki/concepts/将牌与根.md",
+      "wiki/concepts/流局处理.md"
     ],
     "raw": [
-      "raw/mahjong/07-配置.md"
-    ]
-  },
-  "REQ-CONFIG-017": {
-    "wiki": [
-      "wiki/concepts/创房配置.md"
-    ],
-    "raw": [
-      "raw/mahjong/07-配置.md"
-    ]
-  },
-  "REQ-CONFIG-018": {
-    "wiki": [
-      "wiki/concepts/创房配置.md"
-    ],
-    "raw": [
-      "raw/mahjong/07-配置.md"
-    ]
-  },
-  "REQ-CONFIG-019": {
-    "wiki": [
-      "wiki/concepts/创房配置.md"
-    ],
-    "raw": [
-      "raw/mahjong/07-配置.md"
-    ]
-  },
-  "REQ-CONFIG-020": {
-    "wiki": [
-      "wiki/concepts/创房配置.md"
-    ],
-    "raw": [
-      "raw/mahjong/07-配置.md"
-    ]
-  },
-  "REQ-CONFIG-021": {
-    "wiki": [
-      "wiki/concepts/创房配置.md"
-    ],
-    "raw": [
-      "raw/mahjong/07-配置.md"
-    ]
-  },
-  "REQ-CONFIG-022": {
-    "wiki": [
-      "wiki/concepts/创房配置.md"
-    ],
-    "raw": [
-      "raw/mahjong/07-配置.md"
-    ]
-  },
-  "REQ-CONFIG-023": {
-    "wiki": [
-      "wiki/concepts/创房配置.md"
-    ],
-    "raw": [
-      "raw/mahjong/07-配置.md"
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/04-番型.md",
+      "raw/mahjong/05-胡牌类型.md",
+      "raw/mahjong/06-结算.md"
     ]
   },
   "REQ-UI-001": {
     "wiki": [
-      "wiki/concepts/刮风下雨.md"
+      "wiki/concepts/刮风下雨.md",
+      "wiki/concepts/结算公式.md"
     ],
     "raw": [
       "raw/mahjong/01-基础规则.md",
-      "raw/mahjong/03-打牌操作.md"
+      "raw/mahjong/03-打牌操作.md",
+      "raw/mahjong/07-配置.md",
+      "raw/mahjong/06-结算.md"
     ]
   },
   "REQ-UI-002": {
     "wiki": [
-      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md",
       "wiki/concepts/行牌操作.md"
     ],
     "raw": [
@@ -881,30 +928,6 @@
   },
   "REQ-UI-003": {
     "wiki": [
-      "wiki/concepts/番型体系.md"
-    ],
-    "raw": [
-      "raw/mahjong/04-番型.md"
-    ]
-  },
-  "REQ-UI-004": {
-    "wiki": [
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md"
-    ]
-  },
-  "REQ-UI-005": {
-    "wiki": [
-      "wiki/concepts/行牌操作.md"
-    ],
-    "raw": [
-      "raw/mahjong/03-打牌操作.md"
-    ]
-  },
-  "REQ-UI-006": {
-    "wiki": [
       "wiki/concepts/行牌操作.md",
       "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
     ],
@@ -912,11 +935,25 @@
       "raw/mahjong/03-打牌操作.md"
     ]
   },
-  "REQ-UI-007": {
+  "REQ-UI-004": {
     "wiki": [
-      "wiki/concepts/创房配置.md"
+      "wiki/concepts/番型体系.md",
+      "wiki/concepts/结算流水线.md"
     ],
     "raw": [
+      "raw/mahjong/04-番型.md",
+      "raw/mahjong/06-结算.md"
+    ]
+  },
+  "REQ-UI-005": {
+    "wiki": [
+      "wiki/concepts/结算流水线.md",
+      "wiki/concepts/番型体系.md",
+      "wiki/syntheses/自摸涉及的规则番型结算配置UI.md"
+    ],
+    "raw": [
+      "raw/mahjong/02-游戏流程.md",
+      "raw/mahjong/06-结算.md",
       "raw/mahjong/07-配置.md"
     ]
   }

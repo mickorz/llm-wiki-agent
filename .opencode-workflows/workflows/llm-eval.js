@@ -7,13 +7,18 @@ const MODEL_STRONG = 'biangfeng-gateway/glm-5.2-high'
 const MODEL_FAST = 'biangfeng-gateway/deepseek-v4.1-flash-official'
 const AGENT_TIMEOUT = 1800000
 
-// 5 批 golden ID 范围
+// 10 批 golden ID 范围（96 条 golden）
 var BATCHES = [
   { ids: ['GOLDEN-001','GOLDEN-002','GOLDEN-003','GOLDEN-004','GOLDEN-005','GOLDEN-006','GOLDEN-007','GOLDEN-008','GOLDEN-009','GOLDEN-010'], file: '1_10', label: '001-010' },
   { ids: ['GOLDEN-011','GOLDEN-012','GOLDEN-013','GOLDEN-014','GOLDEN-015','GOLDEN-016','GOLDEN-017','GOLDEN-018','GOLDEN-019','GOLDEN-020'], file: '11_20', label: '011-020' },
   { ids: ['GOLDEN-021','GOLDEN-022','GOLDEN-023','GOLDEN-024','GOLDEN-025','GOLDEN-026','GOLDEN-027','GOLDEN-028','GOLDEN-029','GOLDEN-030'], file: '21_30', label: '021-030' },
   { ids: ['GOLDEN-031','GOLDEN-032','GOLDEN-033','GOLDEN-034','GOLDEN-035','GOLDEN-036','GOLDEN-037','GOLDEN-038','GOLDEN-039','GOLDEN-040'], file: '31_40', label: '031-040' },
   { ids: ['GOLDEN-041','GOLDEN-042','GOLDEN-043','GOLDEN-044','GOLDEN-045','GOLDEN-046','GOLDEN-047','GOLDEN-048','GOLDEN-049','GOLDEN-050'], file: '41_50', label: '041-050' },
+  { ids: ['GOLDEN-051','GOLDEN-052','GOLDEN-053','GOLDEN-054','GOLDEN-055','GOLDEN-056','GOLDEN-057','GOLDEN-058','GOLDEN-059','GOLDEN-060'], file: '51_60', label: '051-060' },
+  { ids: ['GOLDEN-061','GOLDEN-062','GOLDEN-063','GOLDEN-064','GOLDEN-065','GOLDEN-066','GOLDEN-067','GOLDEN-068','GOLDEN-069','GOLDEN-070'], file: '61_70', label: '061-070' },
+  { ids: ['GOLDEN-071','GOLDEN-072','GOLDEN-073','GOLDEN-074','GOLDEN-075','GOLDEN-076','GOLDEN-077','GOLDEN-078','GOLDEN-079','GOLDEN-080'], file: '71_80', label: '071-080' },
+  { ids: ['GOLDEN-081','GOLDEN-082','GOLDEN-083','GOLDEN-084','GOLDEN-085','GOLDEN-086','GOLDEN-087','GOLDEN-088','GOLDEN-089','GOLDEN-090'], file: '81_90', label: '081-090' },
+  { ids: ['GOLDEN-091','GOLDEN-092','GOLDEN-093','GOLDEN-094','GOLDEN-095','GOLDEN-096'], file: '91_96', label: '091-096' },
 ]
 
 // =========================================================================

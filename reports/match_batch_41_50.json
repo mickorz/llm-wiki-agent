@@ -1,10 +1,10 @@
 [
-  {"golden_id":"GOLDEN-041","published_id":"REQ-GAME-014","score":0.75},
-  {"golden_id":"GOLDEN-042","published_id":"REQ-GAME-006","score":0.95},
-  {"golden_id":"GOLDEN-043","published_id":"REQ-SETTLEMENT-007","score":0.95},
-  {"golden_id":"GOLDEN-044","published_id":"REQ-GAME-013","score":0.95},
+  {"golden_id":"GOLDEN-041","published_id":"REQ-SETTLEMENT-034","score":0.95},
+  {"golden_id":"GOLDEN-042","published_id":"REQ-SETTLEMENT-006","score":0.90},
+  {"golden_id":"GOLDEN-043","published_id":"REQ-SETTLEMENT-031","score":0.70},
+  {"golden_id":"GOLDEN-044","published_id":"REQ-SETTLEMENT-035","score":0.70},
   {"golden_id":"GOLDEN-047","published_id":"REQ-GAME-008","score":0.95},
-  {"golden_id":"GOLDEN-048","published_id":"REQ-UI-006","score":0.95},
-  {"golden_id":"GOLDEN-049","published_id":"REQ-SETTLEMENT-003","score":0.7},
-  {"golden_id":"GOLDEN-050","published_id":"REQ-CONFIG-004","score":0.95}
+  {"golden_id":"GOLDEN-048","published_id":"REQ-UI-003","score":0.95},
+  {"golden_id":"GOLDEN-049","published_id":"REQ-CONFIG-001","score":0.95},
+  {"golden_id":"GOLDEN-050","published_id":"REQ-CONFIG-005","score":0.95}
 ]

@@ -1,0 +1,12 @@
+[
+  {"golden_id":"GOLDEN-051","published_id":"REQ-SETTLEMENT-030","score":0.75},
+  {"golden_id":"GOLDEN-052","published_id":"REQ-SETTLEMENT-027","score":0.85},
+  {"golden_id":"GOLDEN-053","published_id":"REQ-SETTLEMENT-026","score":0.95},
+  {"golden_id":"GOLDEN-054","published_id":"REQ-SETTLEMENT-028","score":0.95},
+  {"golden_id":"GOLDEN-055","published_id":"REQ-SETTLEMENT-015","score":0.95},
+  {"golden_id":"GOLDEN-056","published_id":"REQ-SETTLEMENT-016","score":0.95},
+  {"golden_id":"GOLDEN-057","published_id":"REQ-SETTLEMENT-017","score":0.95},
+  {"golden_id":"GOLDEN-058","published_id":"REQ-SETTLEMENT-018","score":0.95},
+  {"golden_id":"GOLDEN-059","published_id":"REQ-SETTLEMENT-019","score":0.95},
+  {"golden_id":"GOLDEN-060","published_id":"REQ-SETTLEMENT-020","score":0.95}
+]
